@@ -3,7 +3,7 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Haste171&data=followers,repositories,stars,commits"></p>
 
 ```diff 
-💀 Age: 15
+💀 Age: 16
 🖥️ Favorite Coding Lang: Python
 💼 Experience: 2-3 years
 ```
