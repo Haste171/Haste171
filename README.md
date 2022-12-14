@@ -16,7 +16,3 @@
 <br> 
 
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Haste171&theme=material-palenight"></p>
-
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Haste171&show_icons=true&theme=tokyonight" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haste171&layout=compact&theme=blueberry" /></p>
