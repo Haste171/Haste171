@@ -12,4 +12,3 @@
 
 <br> 
 
-<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Haste171&theme=material-palenight"></p>
