@@ -1,6 +1,3 @@
-<img src="https://github.com/Haste171/Haste171/blob/master/banner.png" /> 
-
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Haste171&data=followers,repositories,stars,commits"></p>
 
 ```diff 
 💀 Age: 16
