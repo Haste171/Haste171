@@ -9,22 +9,23 @@
 ### Contact
 [![Contact](https://rdgb.net/i/IK55r.png)](mailto:dapanon+github@protonmail.com) [![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/100072795462971392)
 
-</div>
-
-
-<table style="margin: auto;">
+<table>
     <tbody>
         <tr>
-            <td style="text-align: center;">
-                <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" alt="Octo Ring logo" align="top"></a>
-                <br>
-                <a href="https://octo-ring.com/p/Haste171/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a>
-                <a href="https://octo-ring.com/p/Haste171/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a>
-                <a href="https://octo-ring.com/p/Haste171/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a>
-                <br>
-                <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" alt="check out other GitHub profiles in the Octo Ring" align="top"></a>
-            </td>
+            <td><a href="https://octo-ring.com/"><img src="https://rdgb.net/i/yP46k.png" width="99%"
+                        alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Haste171/prev"><img
+                        src="https://rdgb.net/i/yaV4v.png" width="33%" alt="previous" align="top"
+                        title="previous profile"></a><a href="https://octo-ring.com/p/Haste171/random"><img
+                        src="https://rdgb.net/i/nr3l2.png" width="33%" alt="random" align="top"
+                        title="random profile"></a><a href="https://octo-ring.com/p/Haste171/next"><img
+                        src="https://rdgb.net/i/vT2Eq.png" width="33%" alt="next" align="top"
+                        title="next profile"></a><br><a href="https://octo-ring.com/"><img
+                        src="https://rdgb.net/i/tjBv0.png" width="99%"
+                        alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td>
         </tr>
     </tbody>
 </table>
+
+</div>
+
 
