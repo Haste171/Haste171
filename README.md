@@ -9,24 +9,8 @@
 ### Contact
 [![Contact](https://rdgb.net/i/IK55r.png)](mailto:dapanon+github@protonmail.com) [![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/100072795462971392)
 
-<table style="border: none;">
-    <tbody>
-        <tr>
-            <td><a href="https://octo-ring.com/"><img src="https://rdgb.net/i/yP46k.png" width="99%"
-                        alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Haste171/prev"><img
-                        src="https://rdgb.net/i/yaV4v.png" width="33%" alt="previous" align="top"
-                        title="previous profile"></a><a href="https://octo-ring.com/p/Haste171/random"><img
-                        src="https://rdgb.net/i/nr3l2.png" width="33%" alt="random" align="top"
-                        title="random profile"></a><a href="https://octo-ring.com/p/Haste171/next"><img
-                        src="https://rdgb.net/i/vT2Eq.png" width="33%" alt="next" align="top"
-                        title="next profile"></a><br><a href="https://octo-ring.com/"><img
-                        src="https://rdgb.net/i/57SRX.png" width="99%"
-                        alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td>
-        </tr>
-    </tbody>
-</table>
-
+[![](https://rdgb.net/i/yP46k.png)](https://octo-ring.com/)  
+[![](https://rdgb.net/i/yaV4v.png)](https://octo-ring.com/p/Haste171/prev) [![](https://rdgb.net/i/nr3l2.png)](https://octo-ring.com/p/Haste171/random) [![](https://rdgb.net/i/vT2Eq.png)](https://octo-ring.com/p/Haste171/next)  
+[![](https://rdgb.net/i/57SRX.png)](https://octo-ring.com/)
 
 </div>
-
-
