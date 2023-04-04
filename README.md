@@ -20,7 +20,7 @@
                         title="random profile"></a><a href="https://octo-ring.com/p/Haste171/next"><img
                         src="https://rdgb.net/i/vT2Eq.png" width="33%" alt="next" align="top"
                         title="next profile"></a><br><a href="https://octo-ring.com/"><img
-                        src="https://rdgb.net/i/ehHwf.png" width="99%"
+                        src="https://rdgb.net/i/57SRX.png" width="99%"
                         alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td>
         </tr>
     </tbody>
