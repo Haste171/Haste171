@@ -7,6 +7,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,mongodb,mysql,postgres,linux,ps,postman,vscode)](https://skillicons.dev)
 
 ### Contact
-[![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/100072795462971392)
+[![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/100072795462971392) [![Contact]([https://skillicons.dev/icons?i=discord](https://rdgb.net/i/IK55r.png))](https://discord.com/users/100072795462971392)
 
 </div>
