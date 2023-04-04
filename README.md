@@ -1,5 +1,5 @@
 ### Contact
-[![My Skills](https://skillicons.dev/icons?i=discord)]([https://skillicons.dev](https://discord.com/users/100072795462971392))]
+[![My Skills](https://skillicons.dev/icons?i=discord)]([https://skillicons.dev](https://discord.com/users/100072795462971392))
 
 
 ### My Tools
