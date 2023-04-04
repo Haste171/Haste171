@@ -9,7 +9,7 @@
 ### Contact
 [![Contact](https://rdgb.net/i/IK55r.png)](mailto:dapanon+github@protonmail.com) [![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/100072795462971392)
 
-<table>
+<table style="border: none;">
     <tbody>
         <tr>
             <td><a href="https://octo-ring.com/"><img src="https://rdgb.net/i/yP46k.png" width="99%"
@@ -25,6 +25,7 @@
         </tr>
     </tbody>
 </table>
+
 
 </div>
 
