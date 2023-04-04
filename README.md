@@ -5,7 +5,7 @@
 ### Contact
 [![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/100072795462971392)
 
-### My Tools
+### Toolbox
 [![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,css,html,aws,cloudflare,heroku,nginx,vercel,git,github,gitlab,js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py,mongodb,mysql,postgres,linux,ps,postman,vscode)](https://skillicons.dev)
 
