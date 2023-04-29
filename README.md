@@ -8,8 +8,4 @@
 ## Contact
 [![Contact](https://rdgb.net/i/IK55r.png)](mailto:dapanon+github@protonmail.com) [![Contact](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1095403138070089758)
 
-[![](https://rdgb.net/i/yP46k.png)](https://octo-ring.com/)  
-[![](https://rdgb.net/i/yaV4v.png)](https://octo-ring.com/p/Haste171/prev) [![](https://rdgb.net/i/nr3l2.png)](https://octo-ring.com/p/Haste171/random) [![](https://rdgb.net/i/vT2Eq.png)](https://octo-ring.com/p/Haste171/next)  
-[![](https://rdgb.net/i/57SRX.png)](https://octo-ring.com/)
-
 </div>
