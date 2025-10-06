@@ -4,9 +4,11 @@
 
 ### Skills
 
-[![Skills (backend → infra)](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,html,js,react,ts,tailwind,linux,docker,aws,gcp,azure,nginx,vercel,heroku,cloudflare)](https://davidpeterson.me)
-[![Datastores & Caching](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://davidpeterson.me)
-[![Tools & Editor](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,idea,notion,ps,photoshop)](https://davidpeterson.me)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,cpp,ruby,html,tailwind,react,rails)](https://davidpeterson.me)  
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,docker,kubernetes,nginx,vercel,heroku,cloudflare)](https://davidpeterson.me)  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,redis,mongodb,mysql,postgres,git,github,gitlab)](https://davidpeterson.me)  
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,pytorch,tensorflow,postman,idea,vscode,notion,ps)](https://davidpeterson.me)
+
 
 
 </div>
