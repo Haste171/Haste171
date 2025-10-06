@@ -3,8 +3,10 @@
 # Hi, I'm [David](https://davidpeterson.me) a passionate Software Engineer.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,html,linux,docker,aws,gcp,azure,redis,cloudflare,heroku,nginx,vercel)](https://davidpeterson.me)
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,py,java,js,mongodb,mysql,postgres,linux,ps,postman,idea,vscode,notion)](https://davidpeterson.me)
-[![My Skills](https://skillicons.dev/icons?i=cpp,ruby,rails,react,ts,tailwind,sqlalchemy,pytorch,tensorflow,langchain,pinecone,kubernetes,bash,twilio,opensearch)](https://davidpeterson.me)
+
+[![Skills (backend → infra)](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,html,js,react,ts,tailwind,linux,docker,aws,gcp,azure,nginx,vercel,heroku,cloudflare)](https://davidpeterson.me)
+[![Datastores & Caching](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://davidpeterson.me)
+[![Tools & Editor](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,idea,notion,ps,photoshop)](https://davidpeterson.me)
+
 
 </div>
